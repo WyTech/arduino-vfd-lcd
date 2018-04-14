@@ -44,8 +44,10 @@ noise.  We selected pins separated from each other for this purpose.  If
 you are using a different board, select pins as far from each other as 
 possible.  
 
-You can also use shielded wire with the shield connected to ground to 
-prevent crosstalk.  Small clip on ferrites may also dampen crosstalk.  
-
-
+Other methods for dealing with crosstalk/noise: 
+- use shielded wire with the shield connected to ground
+- small clip on ferrites may also dampen crosstalk
+- use Cat5 or higher rated unshielded twisted pair (UTP) wire for the data 
+lines
+- keep wires as short as possible
 
